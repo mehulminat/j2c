@@ -1,6 +1,6 @@
 # Jump 2 Chat (J2C)
 [![Generic badge](https://img.shields.io/badge/Compatibility-Indian%20Numbers%20Only-lightgreen.svg)](https://mehulminat.github.io/j2c.github.io/) &nbsp; &nbsp; &nbsp;
-[![Website https://mehulminat.github.io/j2c.github.io/](https://img.shields.io/website-up-down-green-red/https/mehulminat.github.io/j2c.github.io.svg)](https://mehulminat.github.io/j2c.github.io/) &nbsp; &nbsp; &nbsp;
+[![Website https://mehulminat.github.io/j2c.github.io/index.html](https://img.shields.io/website-up-down-green-red/https/mehulminat.github.io/j2c.github.io.svg)](https://mehulminat.github.io/j2c.github.io/) &nbsp; &nbsp; &nbsp;
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/mehulminat/)
 
 ## :point_right: [Visit J2C and Test](https://mehulminat.github.io/j2c.github.io/) :point_left:
@@ -24,7 +24,7 @@
 ### 1. Open the website :point_right: [Go to J2C](https://mehulminat.github.io/j2c.github.io/)
 
 
-![image](https://user-images.githubusercontent.com/72225679/114412555-d5f16c00-9bca-11eb-821a-d47b06dd1e43.png)
+
 
 ### 2. Enter number 
 
