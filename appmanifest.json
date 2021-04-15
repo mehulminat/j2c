@@ -8,9 +8,39 @@
         "sizes": "192x192"
       },
       {
+        "src": "./icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose":"maskable"
+      },
+      {
         "src": "./icons/icon-512x512.png",
         "type": "image/png",
-        "sizes": "512x512"
+        "sizes": "512x512",
+        "purpose":"maskable"
+      },
+      
+      {
+        "src": "./icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"maskable"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Direct Chat",
+        "short_name": "Direct Chat",
+        "description": "Main Content",
+        "url": "/.index.html",
+        "icons": [{"src": "./icons/icon-96x96.png", "sizes": "96x96"}]
+      },
+      {
+        "name": "Working",
+        "short_name": "Working",
+        "description": "Working OF App",
+        "url": "./working.html",
+        "icons": [{"src": "./icons/icon-96x96.png", "sizes": "96x96"}]
       }
     ],
     "start_url": "./index.html",

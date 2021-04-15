@@ -28,7 +28,7 @@ self.addEventListener("install", (event) => {
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll(
         [
-          './icons/icon-512x512.png',
+          './icons/logo.png',
           './style.css',
           './offline.html'
           
